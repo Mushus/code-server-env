@@ -11,6 +11,9 @@ Dockerfile source for running [code-server](https://github.com/codercom/code-ser
 1. Edit `extensions.txt` and add extension ID you want to use
 
 2. Run code-server
+
 ```
 docker-compose up --build -d
 ```
+
+3. access http://localhost:8443

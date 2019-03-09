@@ -1,1 +1,26 @@
+# Editor View
+akamud.vscode-theme-onedark
+gruntfuggly.activitusbar
+emmanuelbeziat.vscode-great-icons
+
+# Edit field
 shardulm94.trailing-spaces
+coenraads.bracket-pair-colorizer
+wayou.vscode-todo-highlight
+
+# Input support
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+
+# Node
+dbaeumer.vscode-eslint
+
+# Golang
+ms-vscode.go
+
+# Language pack
+ms-ceintl.vscode-language-pack-ja
+
+#
+editorconfig.editorconfig
+formulahendry.terminal
